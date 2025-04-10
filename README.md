@@ -24,7 +24,8 @@ I'm currently leading a data project to support revitalizing **Jaycee Park** in 
 
 📊 **Dashboard Preview:**
 
-![Jaycee Park Dashboard](jaycee-dashboard.png)
+<img width="700" alt="jaycee-dashboard" src="https://github.com/user-attachments/assets/b90e4f38-208c-46a5-9df1-2aa01c0dceae" />
+
 
 This project has been one of my favorites—blending data, design, and advocacy to create something with real impact.
 
